@@ -1,7 +1,7 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Keep Focus",
-    "version": "1.0",
+    "version": "1.1",
     "description": "It will help you to focous on your work in case you want to watch something on youtube it will block the whole content till you finish your study",
   "content_scripts": [
         {

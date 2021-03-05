@@ -14,4 +14,4 @@ These instructions will get you a copy of the project up and running on your loc
 
 </br>
 
-<code> If you're fimiliar with Vannila javascript contribution is always welcomed </code>
+<code> If you're fimiliar with Vannila javascript contribution is always welcome </code>
