@@ -15,3 +15,23 @@ These instructions will get you a copy of the project up and running on your loc
 </br>
 
 <code> If you're fimiliar with Vannila javascript contribution is always welcome </code>
+
+<code> let req = document.getElementById('ember54')
+for(let i = 0; i< req.length; i++){
+  req[i].click()
+} </code>
+
+* 2nd 
+<code>
+let req = document.getElementById('ember54')
+for(let i = 0; i< req.length; i++){
+  req[i].click()
+} </code>
+
+* 3rd 
+<code>
+let req = document.getElementById('ember54')
+
+while(req){
+  req.click()
+} </code>
