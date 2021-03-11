@@ -16,6 +16,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 <code> If you're fimiliar with Vannila javascript contribution is always welcome </code>
 
+## ember54 id - to access accept button 
+** their id's are dynamic they change each time we reopen the window  **
+
 <code> let req = document.getElementById('ember54')
 for(let i = 0; i< req.length; i++){
   req[i].click()
